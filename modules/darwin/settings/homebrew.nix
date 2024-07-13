@@ -7,6 +7,18 @@
       brewfile = true;
 
     };
+    brews = [
+      "istioctl"
+      "kubie"
+      "kubectx"
+      "docker"
+      "docker-credential-helper"
+      "docker-buildx"
+      "watch"
+      "calicoctl"
+      "packer"
+      "goenv"
+    ];
     casks = [
       "slack"
       "zoom"
@@ -18,6 +30,7 @@
       "notion-calendar"
       "viscosity"
       "bruno"
+      "chromium"
     ];
   };
 }

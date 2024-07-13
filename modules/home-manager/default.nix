@@ -2,6 +2,7 @@
   imports = [
     ./settings/zsh.nix
     ./settings/tmux.nix
+    ./settings/starship.nix
     #./settings/neovim.nix // TODO: add neovim setup, check file for acceptable criteria
   ];
 
@@ -12,16 +13,17 @@
       ripgrep
       neovim
       kubectl
+      kubernetes-helm
       curl
       less
       awscli
       coreutils
-      go
       neovim
-      python3
+      pyenv
+      rbenv
       asciinema
-      ruby
       rustup
+      jq
       tree
       tree-sitter
       vim
@@ -39,6 +41,7 @@
       gnupg
       opentofu
       git-credential-1password
+      hugo
     ];
 
     sessionVariables = {
