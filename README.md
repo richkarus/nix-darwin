@@ -1,5 +1,5 @@
 
-![nixdarwin](https://camo.githubusercontent.com/80718224a1552a3dcc4203bb9e457a772c5c9eae8d5a7fa6123228a1ed0b1654/68747470733a2f2f646169646572642e636f6d2f6e69782d64617277696e2f696d616765732f6e69782d64617277696e2e706e67)
+[<img src="https://daiderd.com/nix-darwin/images/nix-darwin.png" width="200px" alt="logo" />](https://github.com/LnL7/nix-darwin)
 
 
 # Nix-darwin files
